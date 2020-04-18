@@ -36,3 +36,14 @@
 .navbar-dark{
     background-color: #512DA8;
 }
+.table{
+    padding: 20px 0px 0px 0px;
+}
+.some-class {
+    margin: 0px 5px 0px 0px;
+}
+.some-integer{
+    padding: 0px 10px 0px 1px;
+    
+}
+
